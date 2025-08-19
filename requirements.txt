@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+db-sqlite3
+sqlite-utils
+email-validator
+pendulum
