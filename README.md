@@ -44,7 +44,7 @@ As dependências do projeto estão listadas no arquivo requirements.txt.
 
 * pip install -r requirements.txt
 
-**4. Installar as Dependências**
+**4. Executar a Aplicação**
 
 * uvicorn main:app --reload
 
