@@ -50,4 +50,4 @@ As dependências do projeto estão listadas no arquivo requirements.txt.
 
 **5. Acessar a Documentação Swager**
 
-* Adcionar "/docs" na porta: http://127.0.0.1:8000/docs
+* Adcionar "/docs" na porta: http://127.0.0.1:8000
