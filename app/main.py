@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
-from app import crud, models, schemas
+from . import crud, models, schemas
 from .database import engine, get_db
 from typing import List
 from uuid import UUID

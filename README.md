@@ -46,7 +46,7 @@ As dependências do projeto estão listadas no arquivo requirements.txt.
 
 **4. Executar a Aplicação**
 
-* uvicorn main:app --reload
+* uvicorn app.main:app --reload
 
 **5. Acessar a Documentação Swager**
 
